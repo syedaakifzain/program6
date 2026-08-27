@@ -115,3 +115,16 @@ hello ready to CI
 
 This indicates that the project can be used as a starting point for practicing **Continuous Integration**, where the Java project can later be automatically built and tested whenever changes are pushed to GitHub.
 
+## 📚 Learning Outcomes
+
+Through this project, you can practice:
+
+* Java basics
+* Maven commands
+* Project structure
+* Version control with Git
+* GitHub repository management
+* CI/CD fundamentals
+
+## 👨‍💻 Author
+
