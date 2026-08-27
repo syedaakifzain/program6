@@ -74,3 +74,44 @@ For example:
 java -cp target/classes com.example.App
 ```
 
+Expected output:
+
+```text
+hello ready to CI
+```
+
+## 📦 Maven Configuration
+
+The project uses a `pom.xml` file to manage the Maven project configuration.
+
+The current configuration includes:
+
+* Group ID: `com.example`
+* Artifact ID: `program6`
+* Version: `1.0-SNAPSHOT`
+* Java source version: `21`
+* Java target version: `21`
+
+## 🎯 Purpose
+
+The main purpose of this repository is **practice and learning**.
+
+It helps in understanding:
+
+1. Java project organization
+2. Maven project structure
+3. Java compilation using Maven
+4. Running Java applications
+5. Git and GitHub repository management
+6. Preparing a project for CI workflows
+
+## 🔄 CI Practice
+
+The `App.java` program contains a simple message:
+
+```text
+hello ready to CI
+```
+
+This indicates that the project can be used as a starting point for practicing **Continuous Integration**, where the Java project can later be automatically built and tested whenever changes are pushed to GitHub.
+
