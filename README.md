@@ -128,3 +128,14 @@ Through this project, you can practice:
 
 ## 👨‍💻 Author
 
+**Syed Aakif Zain**
+
+GitHub: [@syedaakifzain](https://github.com/syedaakifzain)
+
+## ⭐ Acknowledgement
+
+This repository was created as part of programming and development practice to improve Java, Maven, Git, GitHub, and CI/CD skills.
+
+---
+
+⭐ If you find this repository useful, consider giving it a star!
